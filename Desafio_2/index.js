@@ -1,4 +1,3 @@
-const { Console } = require('console');
 const fs = require('fs')
 
 class Contenedor {
@@ -136,8 +135,8 @@ var content = new Contenedor('productos.txt')
 
 //se guarda un objeto
 // var producto = {
-//     "title": "Escuadra",
-//     "price": 123.45,
+//     "title": "Globo Terráqueo",
+//     "price": 345.67,
 //     "thumbnail": 'url'
 // }
 
